@@ -1,0 +1,5 @@
+to delete local branch <=when i was in main branch => git branch -d dev
+to delete local branch <=when i was in main branch => git branch -d test
+------------------------------------------
+to delete remotely => git push origin :test
+to delete remotely => git push origin :dev
